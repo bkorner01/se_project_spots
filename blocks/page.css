@@ -1,4 +1,10 @@
 .page {
   background-color: #fcf5e5;
   font-family: Poppins, Arial, Helvetica, sans-serif;
+  padding-bottom: 60px;
+}
+
+.page__section {
+  max-width: 1280px;
+  margin: 0 auto;
 }
